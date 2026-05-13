@@ -1,6 +1,8 @@
+import Profile from "./components/Profile";
+
 function App() {
   return (
-    <h1>Andy Campos</h1>
+    <Profile />
   );
 }
-export default App
+ export default App;
