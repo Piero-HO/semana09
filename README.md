@@ -43,6 +43,8 @@
 ## Evidencia 6 Creacion Componente
 ![alt text](project-2/CINESPOILERS/docs/sexta_captura.png)
 
+## Evidencia 7 Dos perfiles 
+![alt text](project-2/CINESPOILERS/docs/septima_captura.png)
 ## Autor 
 # Pablo Isla
 
