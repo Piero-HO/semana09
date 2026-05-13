@@ -48,14 +48,24 @@
 ## Autor 
 # Pablo Isla
 
-## Evidencia 1 Verificaar las versiones
+##  EVIDENCIA N°1: 1Verificar las versiones que tienes
+![\[\] (docs/evidencia01.png)](proyect-3/cinespoilers/docs/evidencia01.png)
 
-## Evidencia 2 Creacion del proyecto
+##  EVIDENCIA N°2: Crear tu proyecto
+![\[\] (docs/evidencia02.png)](proyect-3/cinespoilers/docs/evidencia02.png)
 
-## Evidencia 3 Proyecto Corriendo
+##  EVIDENCIA N°3: Levantar proyecto con react
+![\[\] (docs/evidencia03.png)](proyect-3/cinespoilers/docs/evidencia03.png)
 
-## Evidencia 4 Editar la Bienvenida
+##  EVIDENCIA N°4: Editar la bienvenida
+![\[\] (docs/evidencia04.png)](proyect-3/cinespoilers/docs/evidencia04.png)
 
-## Evidencia 5 Borrar lo innecesario
+##  EVIDENCIA N°5: Borrar lo innecesario 
+![\[\] (docs/evidencia05.png)](proyect-3/cinespoilers/docs/evidencia05.png)
 
-## Evidencia 6 Creacion Componente
+##  EVIDENCIA N°6: Nuestro primer componente
+![\[\] (docs/evidencia06.png)](proyect-3/cinespoilers/docs/evidencia06.png)
+
+## EXTRA
+![\[\] (docs3/evidencia07.png)](proyect-3/cinespoilers/docs/evidencia07.png)
+
