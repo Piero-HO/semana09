@@ -42,3 +42,18 @@
 
 ## Evidencia 6 Creacion Componente
 ![alt text](project-2/CINESPOILERS/docs/sexta_captura.png)
+
+## Autor 
+# Pablo Isla
+
+## Evidencia 1 Verificaar las versiones
+
+## Evidencia 2 Creacion del proyecto
+
+## Evidencia 3 Proyecto Corriendo
+
+## Evidencia 4 Editar la Bienvenida
+
+## Evidencia 5 Borrar lo innecesario
+
+## Evidencia 6 Creacion Componente
